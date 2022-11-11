@@ -15,3 +15,5 @@ C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\
 C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
 C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
 C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Infrastucture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
